@@ -1,0 +1,166 @@
+{
+  "favourite_movies": [
+    {
+      "id": "F1",
+      "title": "Dangal",
+      "Language": "Hindi",
+      "source": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+      "description": "Based on real wrestler story"
+    },
+    {
+      "id": "I4",
+      "title": "Gopala Gopala",
+      "Language": "Telugu",
+      "source": "https://www.25cineframes.com/images/gallery/2014/11/gopala-gopala-first-look-ultra-hd-posters/4-Gopala-Gopala-First-Look-ULTRA-HD-Posters.jpg",
+      "description": "A story of middle class athesit, winning case against culprits swamiji's."
+    },
+    {
+      "id": "F3",
+      "title": "Finding Nemo",
+      "Language": "Hindi",
+      "source": "https://i.pinimg.com/736x/7b/07/b7/7b07b7690ef4c1b5a1417e2aa138129c--dory-finding-nemo-disney-fanart.jpg",
+      "description": "An animated story, deals with love between parent to son."
+    }
+  ],
+  "theater_movies": [
+    {
+      "id": "F3",
+      "title": "Finding Nemo",
+      "Language": "Hindi",
+      "source": "https://i.pinimg.com/736x/7b/07/b7/7b07b7690ef4c1b5a1417e2aa138129c--dory-finding-nemo-disney-fanart.jpg",
+      "description": "An animated story, deals with love between parent to son."
+    },
+    {
+      "id": "F4",
+      "title": "Cars 2",
+      "Language": "Hindi",
+      "source": "https://lumiere-a.akamaihd.net/v1/images/p_cars2_19643_ebb2d07a.jpeg",
+      "description": "An Animated story of car racing."
+    },
+    {
+      "id": "I4",
+      "title": "Gopala Gopala",
+      "Language": "Telugu",
+      "source": "https://www.25cineframes.com/images/gallery/2014/11/gopala-gopala-first-look-ultra-hd-posters/4-Gopala-Gopala-First-Look-ULTRA-HD-Posters.jpg",
+      "description": "A story of middle class athesit, winning case against culprits swamiji's."
+    },
+    {
+      "id": "I5",
+      "title": "Bahubali",
+      "Language": "Telugu",
+      "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "A kings based story"
+    }
+  ],
+  "Top_Indian_Movies": [
+    {
+      "id": "I1",
+      "title": "PK",
+      "Language": "Hindi",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoKS_kR69XZF3zhg1vY1D4ZVsF65wimLpZy4DVZvOOBE1drsxxfjwpLXdGfrK80ASpjU&usqp=CAU",
+      "description": "An anlien based story, coming onto the earth and gettimg confused by discriminating people based on caste, regilon and etc."
+    },
+    {
+      "id": "I2",
+      "title": "Karthikeya 2",
+      "Language": "Telugu",
+      "source": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/karthikeya_2_motion_poster_of_nikhil_siddhartha_starrer_showcases_mysteries_of_dwarka_watch_1.jpg",
+      "description": "A story based on dwaraka. Adventerous"
+    },
+    {
+      "id": "I3",
+      "title": "Harry Potter Deathly Hallows",
+      "Language": "English",
+      "source": "https://i.pinimg.com/originals/b2/06/1f/b2061fa063a4f94bd91b5f38c2cecb7b.jpg",
+      "description": "A story based on magic world. Fight between a small wizard and A bad evil wizard."
+    },
+    {
+      "id": "I4",
+      "title": "Gopala Gopala",
+      "Language": "Telugu",
+      "source": "https://www.25cineframes.com/images/gallery/2014/11/gopala-gopala-first-look-ultra-hd-posters/4-Gopala-Gopala-First-Look-ULTRA-HD-Posters.jpg",
+      "description": "A story of middle class athesit, winning case against culprits swamiji's."
+    },
+    {
+      "id": "I5",
+      "title": "Bahubali",
+      "Language": "Telugu",
+      "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "A kings based story"
+    }
+  ],
+  "Comming_Soon": [
+    {
+      "id": "I1",
+      "title": "PK",
+      "Language": "Hindi",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoKS_kR69XZF3zhg1vY1D4ZVsF65wimLpZy4DVZvOOBE1drsxxfjwpLXdGfrK80ASpjU&usqp=CAU",
+      "description": "An anlien based story, coming onto the earth and gettimg confused by discriminating people based on caste, regilon and etc."
+    },
+    {
+      "id": "I2",
+      "title": "Karthikeya 2",
+      "Language": "Telugu",
+      "source": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/karthikeya_2_motion_poster_of_nikhil_siddhartha_starrer_showcases_mysteries_of_dwarka_watch_1.jpg",
+      "description": "A story based on dwaraka. Adventerous"
+    },
+    {
+      "id": "I3",
+      "title": "Harry Potter Deathly Hallows",
+      "Language": "English",
+      "source": "https://i.pinimg.com/originals/b2/06/1f/b2061fa063a4f94bd91b5f38c2cecb7b.jpg",
+      "description": "A story based on magic world. Fight between a small wizard and A bad evil wizard."
+    },
+    {
+      "id": "I4",
+      "title": "Gopala Gopala",
+      "Language": "Telugu",
+      "source": "https://www.25cineframes.com/images/gallery/2014/11/gopala-gopala-first-look-ultra-hd-posters/4-Gopala-Gopala-First-Look-ULTRA-HD-Posters.jpg",
+      "description": "A story of middle class athesit, winning case against culprits swamiji's."
+    },
+    {
+      "id": "I5",
+      "title": "Bahubali",
+      "Language": "Telugu",
+      "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "A kings based story"
+    }
+  ],
+  "Top_rated": [
+    {
+      "id": "F1",
+      "title": "Dangal",
+      "Language": "Hindi",
+      "source": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+      "description": "Based on real wrestler story"
+    },
+    {
+      "id": "F2",
+      "title": "Bahubali",
+      "Language": "Telugu",
+      "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "A kings based story"
+    },
+    {
+      "id": "I3",
+      "title": "Harry Potter Deathly Hallows",
+      "Language": "English",
+      "source": "https://i.pinimg.com/originals/b2/06/1f/b2061fa063a4f94bd91b5f38c2cecb7b.jpg",
+      "description": "A story based on magic world. Fight between a small wizard and A bad evil wizard."
+    },
+    {
+      "id": "I4",
+      "title": "Gopala Gopala",
+      "Language": "Telugu",
+      "source": "https://www.25cineframes.com/images/gallery/2014/11/gopala-gopala-first-look-ultra-hd-posters/4-Gopala-Gopala-First-Look-ULTRA-HD-Posters.jpg",
+      "description": "A story of middle class athesit, winning case against culprits swamiji's."
+    },
+    {
+      "id": "I5",
+      "title": "Bahubali",
+      "Language": "Telugu",
+      "source": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "A kings based story"
+    }
+  ]
+}
